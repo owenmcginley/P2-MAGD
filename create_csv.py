@@ -7,7 +7,7 @@ import datetime as dt
 # Preparamos los dataframes
 
 cities = ['barcelona', 'madrid', 'malaga', 'mallorca', 'menorca', 'sevilla', 'valencia']
-dir_data = "~/uni/segundo/magd/airbnb_data/"
+dir_data = "../airbnb_data/"
 calendar = pd.DataFrame()
 listings = pd.DataFrame()
 neighbourhoods = pd.DataFrame()
